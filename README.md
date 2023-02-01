@@ -17,7 +17,8 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [X] List anything else that you can get done to improve the app functionality!
+I would clean up the view and the margins, add more buttons, and make the onclick listener do something more fun.
 
 ## Video Walkthrough
 
@@ -25,7 +26,6 @@ Here's a walkthrough of implemented features:
 
 <img src='CodePathGif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 [ScreenToGif](https://www.screentogif.com/) for Windows
 
@@ -35,7 +35,7 @@ My lobster jpg would not render correctly, it is flipped in the preview but upri
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Jovonn Lee
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
